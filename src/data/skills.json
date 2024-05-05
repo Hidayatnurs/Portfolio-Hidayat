@@ -1,0 +1,26 @@
+[
+    {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "LARAVEL",
+        "imageSrc": "skills/laravel.png"
+    },
+    {
+        "title": "FIGMA",
+        "imageSrc": "skills/figma.png"
+    },
+    {
+        "title": "PREMIER",
+        "imageSrc": "skills/premier.png"
+    },
+    {
+        "title": "BLENDER",
+        "imageSrc": "skills/blender.png"
+    }
+]
